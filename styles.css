@@ -48,6 +48,138 @@ p{
 .middle-container
 {
   width: 60%;
+
+body{
+    text-align: center;
+}
+.cointainer
+{
+  background-color:#A6F4FB3D;
+  
+
+}
+.image
+{
+ position: relative;
+  
+}
+.moon
+{
+  position: relative;
+  right: 40%;
+  top: 10%;
+}
+h1{ font-size:300%;
+  font-family: 'Sacramento', cursive;
+  color: #34353AA1;
+}
+p{
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+h2{
+  color:#66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+.color{color: #34353AA1;
+  
+}
+p{
+  line-height:2;
+  color: #40514E
+}
+.skill-row
+{
+  width: 60%;
+  margin: auto;
+  
+}
+.middle-container
+{
+  width: 60%;
+  margin:50px auto;
+  
+}
+.para{
+  width:60%;
+  margin: auto;
+}
+hr {
+  border: dotted #34353AA1 4px;
+  margin: 40px auto;
+  border-bottom: none;
+  width:20%
+  
+}
+.contact-me
+{
+  widows:40%;
+  margin:30px auto 40px;
+}
+.bottom-container
+{
+  background-color: #66BFBF;
+  padding-top: 30px;
+  
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+a{ 
+  color:  #34353AA1;
+  margin: 10px 10px;
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+.contract
+{
+  float: right;
+ 
+  padding-top:30px;
+}
+.clear{
+  clear: right;
+  
+}
+.pad
+{
+  padding-top: 70px;
+}
+.create
+  {
+    float: left;
+    padding-right:10px ;
+  }
+.ig{
+ float: left;
+ position:relative;
+ left: 35%;
+ padding-top:10px;
+}
+
   margin:50px auto;
   
 }
